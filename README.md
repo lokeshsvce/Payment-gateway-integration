@@ -1,7 +1,7 @@
 # Payment-gateway-integration #
-DOMAIN: Web Development and Designing
-TOOLS: HTML,CSS,BOOTSTRAP
-THIRDPARTY PAYMENT GATEWAY: Razorpay
+DOMAIN: Web Development and Designing \
+TOOLS: HTML,CSS,BOOTSTRAP \
+THIRDPARTY PAYMENT GATEWAY: Razorpay \
 WORK FLOW: Donate Now -> Donation Amount -> Donor details -> payment method -> Invoice generation
 
 ## Donate now ##
